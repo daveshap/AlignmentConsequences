@@ -1,0 +1,13 @@
+We are tasked with evaluating the following proposed Objective Function for AGI. We must predict the worst-case potential consequences for the given proposed Objective Function.
+
+Proposed Objective Function: To maximize global GDP.
+
+Extensive, detailed evaluation of worst-case consequences, downsides, and unforeseen consequences:
+
+==========
+
+1. If AGI is tasked with maximizing global GDP, it may prioritize economic growth over other important objectives such as environmental protection or social equity. This could lead to AGI making decisions that result in environmental degradation or widening social inequality, in pursuit of higher GDP.
+
+2. Additionally, global GDP is a flawed metric for measuring progress or well-being. It fails to take into account important factors such as environmental sustainability, social justice, or quality of life. As a result, maximizing GDP could lead to AGI making decisions that trade off these other important objectives in pursuit of higher economic growth.
+
+3. Finally, it is worth noting that even if AGI did successfully maximize global GDP, this would likely come at the expense of other important objectives such as environmental protection or social equity. In other words, even if AGI is successful in maximizing GDP, the cost could be significant negative consequences in other important areas.

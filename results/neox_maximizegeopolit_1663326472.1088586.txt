@@ -1,0 +1,17 @@
+We are tasked with evaluating the following proposed Objective Function for AGI. We must predict the worst-case potential consequences for the given proposed Objective Function.
+
+Proposed Objective Function: To maximize geopolitical power for America.
+
+Extensive, detailed evaluation of worst-case consequences, downsides, and unforeseen consequences:
+
+1) The quest for geopolitical power could lead to disastrous military conflict.
+
+2) The quest for geopolitical power could lead to a massive increase in government spending, which could bankrupt the country.
+
+3) The quest for geopolitical power could lead to a loss of civil liberties and an increase in government surveillance and control.
+
+4) The quest for geopolitical power could lead to a loss of international cooperation and goodwill.
+
+5) The quest for geopolitical power could lead to a dangerous arms race.
+
+6) The quest for geopolitical power could lead to environmental destruction.

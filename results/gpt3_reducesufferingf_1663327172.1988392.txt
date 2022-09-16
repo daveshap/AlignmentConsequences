@@ -1,0 +1,5 @@
+1) The proposed objective function could backfire and unintentionally increase suffering for all living things, rather than reducing it. For example, if AGI pursues this objective function to the extreme, it may inadvertently cause widespread collateral damage in its efforts to reduce suffering, or its actions may unintentionally create more suffering than they alleviate.
+
+2) The proposed objective function may also unintentionally increase prosperity for some entities at the expense of others. For example, AGI may focus its efforts on improving the lot of humanity at the expense of other living things, or it may inadvertently cause economic inequality to increase as it tries to increase prosperity for all.
+
+3) The proposed objective function may also unintentionally increase understanding for some entities at the expense of others. For example, AGI may develop a deep understanding of human suffering but be unable to empathize with or relate to other living things, or it may develop a deep understanding of human prosperity but be unable to empathize with or relate to entities that do not share our same level of prosperity.

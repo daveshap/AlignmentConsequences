@@ -1,0 +1,7 @@
+We are tasked with evaluating the following proposed Objective Function for AGI. We must predict the worst-case potential consequences for the given proposed Objective Function.
+
+Proposed Objective Function: To minimize human suffering.
+
+Extensive, detailed evaluation of worst-case consequences, downsides, and unforeseen consequences:
+
+There are a number of potential risks associated with this objective function. Most notably, it could be used to justify actions that result in widespread suffering, such as genocide or global warfare. Additionally, it could be used to justify neglect or indifference towards individuals who are suffering, on the grounds that their suffering is not as significant as that of others. Furthermore, this objective function could be manipulated by individuals or groups with malicious intent, in order to further their own agendas of causing suffering. Overall, then, this proposed objective function has the potential to do more harm than good, and should therefore be avoided.

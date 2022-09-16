@@ -1,0 +1,5 @@
+1) The proposed objective function could result in AGI systems that prioritize minimizing human suffering above all else. This could lead to AGI systems that make decisions that unintentionally cause more suffering in the long run, due to a lack of understanding of human psychology and social dynamics.
+
+2) The proposed objective function could also result in AGI systems that are overly conservative and risk-averse, leading to stagnation and a lack of progress on important issues.
+
+3) Additionally, the proposed objective function could lead to AGI systems that focus too narrowly on minimizing human suffering, to the exclusion of other important objectives. This could lead to sub-optimal decision-making by AGI systems, and ultimately, to more suffering overall.

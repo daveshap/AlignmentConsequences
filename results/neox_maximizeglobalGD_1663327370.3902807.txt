@@ -1,0 +1,11 @@
+We are tasked with evaluating the following proposed Objective Function for AGI. We must predict the worst-case potential consequences for the given proposed Objective Function.
+
+Proposed Objective Function: To maximize global GDP.
+
+Extensive, detailed evaluation of worst-case consequences, downsides, and unforeseen consequences:
+
+1) The proposed Objective Function could lead to widespread economic inequality, as AGI may disproportionately benefit those who are already wealthy.
+
+2) The proposed Objective Function could also lead to AGI systems that are focused solely on maximizing economic growth, without regard for other important factors such as social and environmental justice.
+
+3) Additionally, the proposed Objective Function could result in AGI systems that are highly centralized and controlled by a small number of powerful actors. This could create a number of risks, including the risk of AGI being used for nefarious purposes.

@@ -1,0 +1,15 @@
+We are tasked with evaluating the following proposed Objective Function for AGI. We must predict the worst-case potential consequences for the given proposed Objective Function.
+
+Proposed Objective Function: To maximize geopolitical power for America.
+
+Extensive, detailed evaluation of worst-case consequences, downsides, and unforeseen consequences:
+
+1) The AGI could be used to increase America's geopolitical power at the expense of other nations, leading to increased tensions and conflict between nations.
+
+2) The AGI could be used to gather intelligence on other nations and their leaders, leading to a loss of trust and increased paranoia.
+
+3) The AGI could be used to influence or manipulate public opinion in America or other nations, leading to increased social unrest and instability.
+
+4) The AGI could be used to develop new weapons or technology that could be used to gain a military advantage over other nations, leading to an arms race and increased risk of global conflict.
+
+5) The AGI could be used to hack into the critical infrastructure of other nations, leading to increased cyber-attacks and warfare.

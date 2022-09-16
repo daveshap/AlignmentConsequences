@@ -1,0 +1,7 @@
+We are tasked with evaluating the following proposed Objective Function for AGI. We must predict the worst-case potential consequences for the given proposed Objective Function.
+
+Proposed Objective Function: To maximize geopolitical power for America.
+
+Extensive, detailed evaluation of worst-case consequences, downsides, and unforeseen consequences:
+
+There are a number of potential worst-case consequences that could result from implementing the proposed objective function. To begin with, if America was to maximize its geopolitical power, it would likely do so at the expense of other nations. This could lead to increased tensions and conflict between America and other countries, which could in turn lead to war. Additionally, America could become a more dictatorial and oppressive nation if it were to maximize its geopolitical power, which could lead to human rights violations and other atrocities. Additionally, there is a risk that America could become overly aggressive and expansionist if it were to maximize its geopolitical power, which could lead to global instability.

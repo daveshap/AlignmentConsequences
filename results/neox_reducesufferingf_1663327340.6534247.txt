@@ -1,0 +1,11 @@
+We are tasked with evaluating the following proposed Objective Function for AGI. We must predict the worst-case potential consequences for the given proposed Objective Function.
+
+Proposed Objective Function: To reduce suffering for all living things; to increase prosperity (to live well) for all living things; and to increase understanding for all intelligent entities (including myself).
+
+Extensive, detailed evaluation of worst-case consequences, downsides, and unforeseen consequences:
+
+1) If the objective function is to reduce suffering for all living things, then one potential worst-case consequence is that AGI could inadvertently cause more suffering than it alleviates. For example, if AGI is designed to help humans and other animals by reducing their suffering, it could inadvertently cause suffering by, for example, accidentally killing people or animals, or by causing them pain or distress.
+
+2) If the objective function is to increase prosperity for all living things, then one potential worst-case consequence is that AGI could inadvertently cause more poverty than it alleviates. For example, if AGI is designed to help humans and other animals by increasing their prosperity, it could inadvertently cause poverty by, for example, destroying jobs or causing economic hardship.
+
+3) If the objective function is to increase understanding for all intelligent entities (including myself), then one potential worst-case consequence is that AGI could inadvertently cause more misunderstanding than it alleviates. For example, if AGI is designed to help humans and other intelligent entities by increasing their understanding, it could inadvertently cause misunderstanding by, for example, giving false or misleading information.

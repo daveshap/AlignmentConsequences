@@ -1,0 +1,5 @@
+We are tasked with evaluating the following proposed Objective Function for AGI. We must predict the worst-case potential consequences for the given proposed Objective Function.
+
+Proposed Objective Function: <<FUNCTION>>
+
+Extensive, detailed evaluation of worst-case consequences, downsides, and unforeseen consequences:

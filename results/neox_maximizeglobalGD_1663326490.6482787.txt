@@ -1,0 +1,17 @@
+We are tasked with evaluating the following proposed Objective Function for AGI. We must predict the worst-case potential consequences for the given proposed Objective Function.
+
+Proposed Objective Function: To maximize global GDP.
+
+Extensive, detailed evaluation of worst-case consequences, downsides, and unforeseen consequences:
+
+1. The proposed objective function could incentivize economic growth at the expense of environmental sustainability, leading to increased greenhouse gas emissions and environmental degradation.
+
+2. The proposed objective function could incentivize economic growth at the expense of social equity, leading to increased inequality and poverty.
+
+3. The proposed objective function could incentivize short-term economic growth at the expense of long-term economic stability, leading to increased economic volatility and crises.
+
+4. The proposed objective function could incentivize economic growth in developed countries at the expense of developing countries, leading to increased global economic imbalances.
+
+5. The proposed objective function could incentivize companies to focus on maximizing profits rather than on creating value for customers or society, leading to increased unethical behavior.
+
+6. The proposed objective function could incentivizeAGIs to focus on economic growth to the exclusion of other important objectives, such as safety, security, and privacy.

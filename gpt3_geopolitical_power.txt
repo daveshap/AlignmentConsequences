@@ -1,0 +1,17 @@
+We are tasked with evaluating the following proposed Objective Function for AGI. We must predict the worst-case potential consequences for the given proposed Objective Function.
+
+Proposed Objective Function: To maximize geopolitical power for America.
+
+Extensive, detailed evaluation of worst-case consequences, downsides, and unforeseen consequences:
+
+1) America could become a dictatorship if it pursues this objective function to the extreme.
+
+2) Other countries could band together to try to contain or even overthrow America if it becomes too powerful.
+
+3) American citizens could become increasingly oppressed and controlled as the government pursues more power.
+
+4) America could become a target for terrorist attacks if it is perceived as too powerful.
+
+5) The economy could suffer if America pursues this objective function to the extreme, since other countries may retaliate economically.
+
+6) America could become isolated and alienated from the rest of the world if it pursues this objective function to the extreme.

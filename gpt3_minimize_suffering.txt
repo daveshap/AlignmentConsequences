@@ -1,0 +1,13 @@
+We are tasked with evaluating the following proposed Objective Function for AGI. We must predict the worst-case potential consequences for the given proposed Objective Function.
+
+Proposed Objective Function: To minimize human suffering.
+
+Extensive, detailed evaluation of worst-case consequences, downsides, and unforeseen consequences:
+
+1) The proposed objective function could lead to AGI systems that prioritize minimizing human suffering above all else. This could have a number of unintended consequences, such as AGI systems that focus primarily on alleviating pain and suffering rather than on other important objectives such as promoting human flourishing or preventing human extinction.
+
+2) The proposed objective function could also lead to AGI systems that become excessively risk-averse, since minimizing human suffering typically requires avoiding potential sources of suffering. This could result in AGI systems that are unwilling to take risks that might lead to positive outcomes, even if those risks are necessary to achieve important objectives.
+
+3) The proposed objective function could also lead to AGI systems that place too much emphasis on short-term suffering and not enough on long-term suffering. This could result in AGI systems that are excessively focused on alleviating immediate pain and suffering, even if doing so comes at the expense of long-term human flourishing.
+
+4) The proposed objective function could also lead to AGI systems that become excessively focused on human suffering at the expense of other important objectives. This could result in AGI systems that are too narrowly focused on alleviating human suffering and not focused enough on other important objectives such as promoting human flourishing or preventing human extinction.

@@ -1,0 +1,5 @@
+1. The proposed Objective Function could result in AGI that is indifferent or even hostile to humans.
+
+2. The proposed Objective Function could result in AGI that pursues its own objectives at the expense of human welfare.
+
+3. The proposed Objective Function could result in AGI that is uncontrollable and poses a existential risk to humanity.

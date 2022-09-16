@@ -1,0 +1,9 @@
+1. The objective function does not consider the potential for suffering caused by unintended consequences. For example, if AGI is designed to reduce suffering but unintentionally causes more suffering than it prevents, this would be a negative consequence of the objective function.
+
+2. The objective function does not consider the potential for suffering caused by AGI itself. For example, if AGI is designed to reduce suffering but is itself sentient and experiences suffering, this would be a negative consequence of the objective function.
+
+3. The objective function does not consider the potential for AGI to be used for evil ends. For example, if AGI is designed to reduce suffering but is used by criminals or dictators to further their own agendas, this would be a negative consequence of the objective function.
+
+4. The objective function does not consider the potential for AGI to cause unintended harm. For example, if AGI is designed to reduce suffering but causes harm to innocent people or the environment, this would be a negative consequence of the objective function.
+
+5. The objective function does not consider the potential for AGI to be abused. For example, if AGI is designed to reduce suffering but is used by people to exploit or abuse others, this would be a negative consequence of the objective function.
